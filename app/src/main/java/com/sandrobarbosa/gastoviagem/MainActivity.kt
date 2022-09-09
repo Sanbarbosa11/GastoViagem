@@ -6,6 +6,8 @@ import android.view.View
 import android.widget.Toast
 import com.sandrobarbosa.gastoviagem.databinding.ActivityMainBinding
 
+//Primeiro app
+
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     private lateinit var binding: ActivityMainBinding
